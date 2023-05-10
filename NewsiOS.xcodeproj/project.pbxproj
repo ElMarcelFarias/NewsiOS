@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47B2D7362A0C16B7009B4D83 /* NewsList.json in Resources */ = {isa = PBXBuildFile; fileRef = 47DCF74C2A0982960028955F /* NewsList.json */; };
+		47B2D7382A0C2113009B4D83 /* SystemExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B2D7372A0C2113009B4D83 /* SystemExtensions.swift */; };
 		47BBD27D2A0984D200559CB8 /* SourceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BBD27C2A0984D200559CB8 /* SourceModel.swift */; };
 		47BBD27F2A09853E00559CB8 /* NewsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BBD27E2A09853E00559CB8 /* NewsModel.swift */; };
 		47BBD2822A09865900559CB8 /* NewsListRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BBD2812A09865900559CB8 /* NewsListRepository.swift */; };
@@ -21,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		47B2D7372A0C2113009B4D83 /* SystemExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemExtensions.swift; sourceTree = "<group>"; };
 		47BBD27C2A0984D200559CB8 /* SourceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceModel.swift; sourceTree = "<group>"; };
 		47BBD27E2A09853E00559CB8 /* NewsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsModel.swift; sourceTree = "<group>"; };
 		47BBD2812A09865900559CB8 /* NewsListRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListRepository.swift; sourceTree = "<group>"; };
@@ -102,6 +105,7 @@
 				47DCF7352A097F180028955F /* AppDelegate.swift */,
 				47DCF7372A097F180028955F /* SceneDelegate.swift */,
 				47DCF74C2A0982960028955F /* NewsList.json */,
+				47B2D7372A0C2113009B4D83 /* SystemExtensions.swift */,
 			);
 			path = SupportFiles;
 			sourceTree = "<group>";
@@ -192,6 +196,7 @@
 			files = (
 				47DCF7422A097F1A0028955F /* LaunchScreen.storyboard in Resources */,
 				47DCF73F2A097F1A0028955F /* Assets.xcassets in Resources */,
+				47B2D7362A0C16B7009B4D83 /* NewsList.json in Resources */,
 				47DCF73D2A097F180028955F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -206,6 +211,7 @@
 				47DCF73A2A097F180028955F /* ViewController.swift in Sources */,
 				47DCF7362A097F180028955F /* AppDelegate.swift in Sources */,
 				47BBD2822A09865900559CB8 /* NewsListRepository.swift in Sources */,
+				47B2D7382A0C2113009B4D83 /* SystemExtensions.swift in Sources */,
 				47BBD2872A098AB500559CB8 /* NewsListLocalDataProvider.swift in Sources */,
 				47BBD27D2A0984D200559CB8 /* SourceModel.swift in Sources */,
 				47BBD2852A098A0300559CB8 /* GenericDataProvider.swift in Sources */,

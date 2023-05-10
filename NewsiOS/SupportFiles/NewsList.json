@@ -1,262 +1,262 @@
-"articles": [
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Escola Educação",
-      "title": "Familiarize-se com seu smartphone: aprenda os nomes das partes da frente do aparelho - Escola Educação",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vZXNjb2xhZWR1Y2FjYW8uY29tLmJyL2NvbW8tZnVuY2lvbmEtYS1wYXJ0ZS1kYS1mcmVudGUtZG8tY2VsdWxhci_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T19:41:44Z",
-      "content": null
+[
+  {
+    "source": {
+      "id": "globo",
+      "name": "Globo"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Globo",
-      "title": "Cruzeiro não terá Ramiro contra o Fluminense; Pepa lamenta lesão de Bilu: \"A coisa pode ser feia\" - Globo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiogFodHRwczovL2dlLmdsb2JvLmNvbS9mdXRlYm9sL3RpbWVzL2NydXplaXJvL25vdGljaWEvMjAyMy8wNS8wNy9jcnV6ZWlyby1uYW8tdGVyYS1yYW1pcm8tY29udHJhLW8tZmx1bWluZW5zZS1wZXBhLWxhbWVudGEtbGVzYW8tZGUtYmlsdS1hLWNvaXNhLXBvZGUtc2VyLWZlaWEuZ2h0bWzSAa0BaHR0cHM6Ly9nZS5nbG9iby5jb20vZ29vZ2xlL2FtcC9mdXRlYm9sL3RpbWVzL2NydXplaXJvL25vdGljaWEvMjAyMy8wNS8wNy9jcnV6ZWlyby1uYW8tdGVyYS1yYW1pcm8tY29udHJhLW8tZmx1bWluZW5zZS1wZXBhLWxhbWVudGEtbGVzYW8tZGUtYmlsdS1hLWNvaXNhLXBvZGUtc2VyLWZlaWEuZ2h0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T19:22:54Z",
-      "content": null
+    "author": null,
+    "title": "Nova vacina contra gripe deve chegar entre fevereiro e março de 2022; veja como funciona a produção - G1",
+    "description": "O g1 conversou com o diretor de produção do Instituto Butantan, que produz 80 milhões de doses de vacinas contra a gripe para atender o Programa Nacional de Imunizações (PNI). Entidade recebeu selo de qualidade da OMS neste ano.",
+    "url": "https://g1.globo.com/saude/noticia/2021/12/18/nova-vacina-contra-gripe-deve-chegar-entre-fevereiro-e-marco-de-2022-veja-como-funciona-a-producao.ghtml",
+    "urlToImage": "https://s2.glbimg.com/JSkqP5W0CvKuR1hRKcPCUPEy3zM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/s/7/3qVRWnSmWQMofBDfj3ug/d92eb4975c4d9e83498142857348e40d.jpg",
+    "publishedAt": "2021-12-18T08:00:32Z",
+    "content": "A vacina contra a nova variante do vírus influenza H3N2, a Darwin, deve chegar ao Brasil no início de 2022. O Instituto Butantan, maior produtor de vacinas para a gripe do Hemisfério Sul, já iniciou … [+4323 chars]"
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "gshow.globo.com",
-      "title": "Multidão se reúne para o show de coroação de Rei Charles III - gshow.globo.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL2dzaG93Lmdsb2JvLmNvbS90dWRvLW1haXMvdHYtZS1mYW1vc29zL25vdGljaWEvbXVsdGlkYW8tZS1mYW1vc29zLW1hcmNhbS1wcmVzZW5jYS1uby1zaG93LWRlLWNvcm9hY2FvLWRlLXJlaS1jaGFybGVzLWlpaS5naHRtbNIBkQFodHRwczovL2dzaG93Lmdsb2JvLmNvbS9nb29nbGUvYW1wL3R1ZG8tbWFpcy90di1lLWZhbW9zb3Mvbm90aWNpYS9tdWx0aWRhby1lLWZhbW9zb3MtbWFyY2FtLXByZXNlbmNhLW5vLXNob3ctZGUtY29yb2FjYW8tZGUtcmVpLWNoYXJsZXMtaWlpLmdodG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T19:18:51Z",
-      "content": null
+    "author": null,
+    "title": "Um Lugar ao Sol: Bárbara compra talento de Janine com cartão de crédito e apê de luxo - Notícias da TV",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiigFodHRwczovL25vdGljaWFzZGF0di51b2wuY29tLmJyL25vdGljaWEvbm92ZWxhcy91bS1sdWdhci1hby1zb2wtYmFyYmFyYS1jb21wcmEtdGFsZW50by1kZS1qYW5pbmUtY29tLWNhcnRhby1kZS1jcmVkaXRvLWUtYXBlLWRlLWx1eG8tNzE4MjPSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-12-18T08:00:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "globo",
+      "name": "Globo"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Band Jornalismo",
-      "title": "Apresentadora Palmirinha morre em SP aos 91 anos |BandNews TV - Band Jornalismo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC0lpYXc5aU4tUS1BmAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T18:50:29Z",
-      "content": null
+    "author": null,
+    "title": "Em disputa polarizada, Chile define neste domingo seu próximo presidente - G1",
+    "description": "Mais de 15 milhões de chilenos podem votar para escolher o sucessor de  Sebastián Piñera. No primeiro turno, a participação do eleitorado foi de 47%.",
+    "url": "https://g1.globo.com/mundo/noticia/2021/12/18/em-disputa-polarizada-chile-define-neste-domingo-seu-proximo-presidente.ghtml",
+    "urlToImage": "https://s2.glbimg.com/15rsNxGcG3y9vKRHhmK9HbnTBos=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/t/z/nroPO1TvyVGgWdUytMaA/chile.jpg",
+    "publishedAt": "2021-12-18T04:00:18Z",
+    "content": "O ultradireitista José Antonio Kast e o esquerdista Gabriel Boric se enfrentam neste domingo (19) no segundo turno da polarizada disputa pela presidência do Chile. Trata-se da primeira eleição presid… [+7661 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mixvale.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "UOL Esporte",
-      "title": "Qual canal vai passar Athletico x Flamengo ao vivo? Saiba onde assistir - UOL Esporte",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy51b2wuY29tLmJyL2VzcG9ydGUvZnV0ZWJvbC91bHRpbWFzLW5vdGljaWFzLzIwMjMvMDUvMDcvcXVhbC1jYW5hbC12YWktcGFzc2FyLWF0aGxldGljby14LWZsYW1lbmdvLWFvLXZpdm8tc2FpYmEtb25kZS1hc3Npc3Rpci5odG3SAZEBaHR0cHM6Ly93d3cudW9sLmNvbS5ici9lc3BvcnRlL2Z1dGVib2wvdWx0aW1hcy1ub3RpY2lhcy8yMDIzLzA1LzA3L3F1YWwtY2FuYWwtdmFpLXBhc3Nhci1hdGhsZXRpY28teC1mbGFtZW5nby1hby12aXZvLXNhaWJhLW9uZGUtYXNzaXN0aXIuYW1wLmh0bQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T18:30:00Z",
-      "content": null
+    "author": "Redação Mix Vale",
+    "title": "Segunda parcela do 13º salário tem que ser paga até segunda-feira - Mix Vale",
+    "description": "Segunda parcela do 13º salário tem que ser paga até segunda-feira Os trabalhadores com carteira assinada de todo o país vão receber a segunda parcela do 13º salário até segunda-feira (20). A primeira deve ter sido paga até o dia 30 de novembro. Pesquisa do Di…",
+    "url": "https://www.mixvale.com.br/2021/12/18/segunda-parcela-do-13o-salario-tem-que-ser-paga-ate-segunda-feira/",
+    "urlToImage": "https://www.mixvale.com.br/wp-content/uploads/2019/08/Governo-propõe-salário-mínimo-de-R-1.03900-para-o-ano-que-vem-1000x600.jpg",
+    "publishedAt": "2021-12-18T03:40:51Z",
+    "content": "Segunda parcela do 13º salário tem que ser paga até segunda-feira Os trabalhadores com carteira assinada de todo o país vão receber a segunda parcela do 13º salário até segunda-feira (20). A primeira… [+3431 chars]"
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "UOL Confere",
-      "title": "PT aciona Google por sugerir 'corrupção' em busca por 'coroação' no site - UOL Confere",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL25vdGljaWFzLnVvbC5jb20uYnIvcG9saXRpY2EvdWx0aW1hcy1ub3RpY2lhcy8yMDIzLzA1LzA3L3B0LXBlZGUtZXhwbGljYWNvZXMtYW8tZ29vZ2xlLXNvYnJlLWFzc29jaWFjYW8tY29tLWNvcnJ1cGNhby1lbS1idXNjYS5odG3SAY4BaHR0cHM6Ly9ub3RpY2lhcy51b2wuY29tLmJyL3BvbGl0aWNhL3VsdGltYXMtbm90aWNpYXMvMjAyMy8wNS8wNy9wdC1wZWRlLWV4cGxpY2Fjb2VzLWFvLWdvb2dsZS1zb2JyZS1hc3NvY2lhY2FvLWNvbS1jb3JydXBjYW8tZW0tYnVzY2EuYW1wLmh0bQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T18:29:40Z",
-      "content": null
+    "author": null,
+    "title": "Mortes por overdose e crimes fazem prefeita de São Francisco declarar emergência na cidade - Internacional Estadão",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL2ludGVybmFjaW9uYWwuZXN0YWRhby5jb20uYnIvbm90aWNpYXMvZ2VyYWwsbW9ydGVzLXBvci1vdmVyZG9zZS1lLWNyaW1lcy1mYXplbS1wcmVmZWl0YS1kZS1zYW8tZnJhbmNpc2NvLWRlY2xhcmFyLWVtZXJnZW5jaWEtbmEtY2lkYWRlLDcwMDAzOTI5NzE20gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-12-18T01:52:56Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "globo",
+      "name": "Globo"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BBC News Brasil",
-      "title": "Por que brasileiros não são considerados latinos nos EUA - BBC News Brasil",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmJiYy5jb20vcG9ydHVndWVzZS9hcnRpY2xlcy9jeDluZWwxNGVrd2_SAThodHRwczovL3d3dy5iYmMuY29tL3BvcnR1Z3Vlc2UvYXJ0aWNsZXMvY3g5bmVsMTRla3dvLmFtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T17:53:44Z",
-      "content": null
+    "author": null,
+    "title": "'Verdades secretas 2': Alex (Rodrigo Lombardi) aparece em cena final da primeira versão do desfecho - Extra",
+    "description": "Por essa ninguém esperava, mas muitos torciam. Alex (Rodrigo Lombardi) reaparece em um dos finais de “Verdades secretas 2”. Os últimos capítulos da novela...",
+    "url": "https://extra.globo.com/tv-e-lazer/telinha/verdades-secretas-2-alex-rodrigo-lombardi-aparece-em-cena-final-da-primeira-versao-do-desfecho-rv1-1-25324517.html",
+    "urlToImage": "https://extra.globo.com/incoming/25324511-d97-acc/w976h550-PROP/whatsapp-image-2021-12-17-at-21.56.19.jpeg.jpg",
+    "publishedAt": "2021-12-18T01:02:00Z",
+    "content": "Por essa ninguém esperava, mas muitos torciam. Alex (Rodrigo Lombardi) reaparece em um dos finais de Verdades secretas 2. Os últimos capítulos da novela chegaram ao Globoplay na noite desta sexta-fei… [+1026 chars]"
+  },
+  {
+    "source": {
+      "id": "globo",
+      "name": "Globo"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Brasil 247",
-      "title": "Lula age bem ao desafiar nos tribunais o \"crime de lesa-pátria\" na Eletrobrás - Brasil 247",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJyYXNpbDI0Ny5jb20vZWRpdG9yaWFpczI0Ny9sdWxhLWFnZS1iZW0tYW8tZGVzYWZpYXItbm9zLXRyaWJ1bmFpcy1vLWNyaW1lLWRlLWxlc2EtcGF0cmlhLW5hLWVsZXRyb2JyYXPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T17:42:00Z",
-      "content": null
+    "author": null,
+    "title": "Governo suspende venda de 24 marcas de azeite de oliva em seis estados - G1",
+    "description": "Ministério da Agricultura apreendeu mais de 150 mil garrafas consideradas impróprias para o consumo em São Paulo, Rio de Janeiro, Ceará, Goiás, Paraná e Santa Catarina.",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2021/12/17/governo-suspende-venda-de-24-marcas-de-azeite-de-oliva-em-seis-estados.ghtml",
+    "urlToImage": "https://s2.glbimg.com/fIvXF5VscFHKwjFN9cwR2IGpG5o=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/10139652.jpg",
+    "publishedAt": "2021-12-18T00:57:00Z",
+    "content": "Governo suspende venda de 24 marcas de azeite de oliva em seis estados \r\nO governo suspendeu a venda de 24 marcas de azeite de oliva em seis estados. O Ministério da Agricultura apreendeu mais de 150… [+396 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Torcedores.com"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Terra",
-      "title": "Morre homem que foi espancado após ser vítima de fake news no Guarujá - Terra",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy50ZXJyYS5jb20uYnIvbm90aWNpYXMvYnJhc2lsL2NpZGFkZXMvbW9ycmUtaG9tZW0tcXVlLWZvaS1lc3BhbmNhZG8tYXBvcy1zZXItdml0aW1hLWRlLWZha2UtbmV3cy1uby1ndWFydWphLDljMTc4OTZhZGMzMWJlZjczZGY4M2RhN2IwYjNjYmFhc2k2MnB4Y3EuaHRtbNIBqAFodHRwczovL3d3dy50ZXJyYS5jb20uYnIvYW1wL25vdGljaWFzL2JyYXNpbC9jaWRhZGVzL21vcnJlLWhvbWVtLXF1ZS1mb2ktZXNwYW5jYWRvLWFwb3Mtc2VyLXZpdGltYS1kZS1mYWtlLW5ld3Mtbm8tZ3VhcnVqYSw5YzE3ODk2YWRjMzFiZWY3M2RmODNkYTdiMGIzY2JhYXNpNjJweGNxLmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T17:36:00Z",
-      "content": null
+    "author": null,
+    "title": "Cruzeiro clube-empresa: Assembleia aprova novo estatuto que permite venda de 90% das ações da SAF - Torcedores.com",
+    "description": "Com a mudança no seu estatuto, Cruzeiro espera receber investimento pesado até março do ano que vem",
+    "url": "https://www.torcedores.com/noticias/2021/12/cruzeiro-clube-empresa-assembleia-aprova-novo-estatuto-que-permite-venda-de-90-das-acoes-da-saf",
+    "urlToImage": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2021/12/cruzeiro-bandeira.jpg",
+    "publishedAt": "2021-12-18T00:56:00Z",
+    "content": "Crédito: Site oficial\r\nA noite desta sexta-feira (17) vai ficar marcada em toda história do Cruzeiro. A Assembleia Geral do clube com a presença de conselheiros e associados aprovou a mudança no esta… [+3507 chars]"
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Bolavip Brasil",
-      "title": "“Não desperdiçou a chance”; Após fim de Travessia, Sonia Abrão opina sobre o último capítulo da trama e ras... - Bolavip Brasil",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL2JyLmJvbGF2aXAuY29tL2VudHJldGVuaW1lbnRvL05hby1kZXNwZXJkaWNvdS1hLWNoYW5jZS1BcG9zLWZpbS1kZS1UcmF2ZXNzaWEtU29uaWEtQWJyYW8tb3BpbmEtc29icmUtby11bHRpbW8tY2FwaXR1bG8tZGEtdHJhbWEtZS1yYXNnYS1lbG9naW9zLWEtSmFkZS1QaWNvbi0tMjAyMzA1MDctMDAzNy5odG1s0gG8AWh0dHBzOi8vYnIuYm9sYXZpcC5jb20vYW1wL2VudHJldGVuaW1lbnRvL05hby1kZXNwZXJkaWNvdS1hLWNoYW5jZS1BcG9zLWZpbS1kZS1UcmF2ZXNzaWEtU29uaWEtQWJyYW8tb3BpbmEtc29icmUtby11bHRpbW8tY2FwaXR1bG8tZGEtdHJhbWEtZS1yYXNnYS1lbG9naW9zLWEtSmFkZS1QaWNvbi0tMjAyMzA1MDctMDAzNy5odG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T17:12:34Z",
-      "content": null
+    "author": null,
+    "title": "Resumo de Um Lugar ao Sol: Próximo capítulo, sábado, 18 de dezembro - Notícias da TV",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vbm90aWNpYXNkYXR2LnVvbC5jb20uYnIvbm90aWNpYS9ub3ZlbGFzL3Jlc3Vtby1kZS11bS1sdWdhci1hby1zb2wtcHJveGltby1jYXBpdHVsby1zYWJhZG8tMTgtZGUtZGV6ZW1icm8tNzEwMTLSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-12-18T00:50:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Em.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "GZH",
-      "title": "AO VIVO: São Paulo x Inter e Grêmio x Bragantino - Brasileirão Série A | Jornada Digital 07/05/2023 - GZH",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CCAiC2o4ZmdwYm9WRUV3mAEB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T16:59:22Z",
-      "content": null
+    "author": "Estado de Minas",
+    "title": "Grupo Itapemirim suspende todos os voos de sua companhia aérea - Estado de Minas",
+    "description": "Os voos foram cancelados em razão de uma necessidade de ajustes operacionais. Não há previsão para retorno",
+    "url": "https://www.em.com.br/app/noticia/economia/2021/12/17/internas_economia,1332288/grupo-itapemirim-suspende-todos-os-voos-de-sua-companhia-aerea.shtml",
+    "urlToImage": "https://i.em.com.br/J27hyTz1xc7jvq3ikfhsx8yrO1Q=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2021/12/17/1332288/voo-grupo-itapemirim_1_38375.jpg",
+    "publishedAt": "2021-12-18T00:44:00Z",
+    "content": "O Grupo Itapemirim informou, nesta sexta-feira (17/12), que a companhia area precisou suspender, no incio da noite, todos os seus voos e operaes por tempo indeterminado. A deciso, segundo a empresa, … [+1277 chars]"
+  },
+  {
+    "source": {
+      "id": "globo",
+      "name": "Globo"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "OFuxico",
-      "title": "Marcius Melhem faz dura crítica contra Dani Calabresa, após foto com Cara de Sapato - OFuxico",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm9mdXhpY28uY29tLmJyL25vdGljaWFzL21hcmNpdXMtbWVsaGVtLWZhei1kdXJhLWNyaXRpY2EtY29udHJhLWRhbmktY2FsYWJyZXNhLWFwb3MtZm90by1jb20tY2FyYS1kZS1zYXBhdG8v0gF3aHR0cHM6Ly93d3cub2Z1eGljby5jb20uYnIvbm90aWNpYXMvbWFyY2l1cy1tZWxoZW0tZmF6LWR1cmEtY3JpdGljYS1jb250cmEtZGFuaS1jYWxhYnJlc2EtYXBvcy1mb3RvLWNvbS1jYXJhLWRlLXNhcGF0by8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T16:40:00Z",
-      "content": null
+    "author": null,
+    "title": "Resposta de Cavani ao Corinthians, proposta por Róger Guedes e muito mais no resumão da Central - globoesporte.com",
+    "description": "Sexta-feira também tem viagem do Flamengo em busca de treinador, adeus de Benítez ao São Paulo e futuro de Douglas Costa... veja tudo o que aconteceu nesta sexta-feira",
+    "url": "https://ge.globo.com/pe/futebol/noticia/resposta-de-cavani-ao-corinthians-proposta-por-roger-guedes-e-muito-mais-no-resumao-da-central.ghtml",
+    "urlToImage": "https://s2.glbimg.com/9wD1KoJ9VBKr3dVdtm2-19HMtaE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/X/L/bBWgPxStyXliMU29deJg/cavani-3.jpg",
+    "publishedAt": "2021-12-18T00:01:59Z",
+    "content": "Precisamos atestar: os clubes entraram em clima de \"sextou\" nesta véspera de fim de semana (e das festas de fim de ano). O Flamengo vai para Lisboa em busca de técnico, Cavani só decidirá o futuro em… [+5119 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Uol.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Correio Braziliense",
-      "title": "Senadores visitam Anderson Torres no 4º Batalhão da Polícia Militar - Correio Braziliense",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jb3JyZWlvYnJhemlsaWVuc2UuY29tLmJyL2NpZGFkZXMtZGYvMjAyMy8wNS81MDkyNzQ1LXNlbmFkb3Jlcy12aXNpdGFtLWFuZGVyc29uLXRvcnJlcy1uby00LWJhdGFsaGFvLWRhLXBvbGljaWEtbWlsaXRhci5odG1s0gEA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T16:22:00Z",
-      "content": null
+    "author": null,
+    "title": "Máscaras protegem contra epidemia de H3N2; entenda - Folha",
+    "description": "Publicação no Twitter questiona a utilidade da proteção diante do crescimento de casos de gripe influenza",
+    "url": "https://www1.folha.uol.com.br/equilibrioesaude/2021/12/mascaras-protegem-contra-epidemia-de-h3n2-entenda.shtml",
+    "urlToImage": "https://f.i.uol.com.br/fotografia/2021/09/09/1631222844613a7c3c41c90_1631222844_3x2_rt.jpg",
+    "publishedAt": "2021-12-17T23:41:00Z",
+    "content": "A epidemia da cepa H3N2, da influenza A, tem gerado comentários que questionam a utilidade de vacinas e métodos preventivos, capazes de combater vírus como o da Covid-19 e o do próprio influenza, con… [+10780 chars]"
+  },
+  {
+    "source": {
+      "id": "info-money",
+      "name": "InfoMoney"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "UOL",
-      "title": "STF forma maioria para abrir ação penal contra mais 250, o que somará 550 réus pelo 8/1 - UOL",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dzEuZm9saGEudW9sLmNvbS5ici9wb2Rlci8yMDIzLzA1L3N0Zi1mb3JtYS1tYWlvcmlhLXBhcmEtYWJyaXItYWNhby1wZW5hbC1jb250cmEtbWFpcy0yNTAtby1xdWUtc29tYXJhLTU1MC1yZXVzLXBlbG8tODEuc2h0bWzSAYsBaHR0cHM6Ly93d3cxLmZvbGhhLnVvbC5jb20uYnIvYW1wL3BvZGVyLzIwMjMvMDUvc3RmLWZvcm1hLW1haW9yaWEtcGFyYS1hYnJpci1hY2FvLXBlbmFsLWNvbnRyYS1tYWlzLTI1MC1vLXF1ZS1zb21hcmEtNTUwLXJldXMtcGVsby04MS5zaHRtbA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T16:12:00Z",
-      "content": null
+    "author": null,
+    "title": "Guedes vê economia em níveis pré-Covid, mas alerta para pressão por reajustes salariais em 2022 - InfoMoney",
+    "description": "Em entrevista coletiva, ministro diz que \"economia se reergueu\", mas não esconde preocupação com pressões do mundo político por gastos no ano que vem",
+    "url": "https://www.infomoney.com.br/politica/guedes-ve-economia-em-niveis-pre-pandemia-mas-alerta-para-pressao-por-reajustes-salariais-para-2022/",
+    "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2021/12/Paulo_Guedes1.jpg?quality=70",
+    "publishedAt": "2021-12-17T23:31:35Z",
+    "content": "O ministro Paulo Guedes (Economia) durante coletiva de imprensa sobre o balanço de final de ano da economia no país (Foto: divulgação) \r\nO ministro Paulo Guedes (Economia) avalia que os últimos dois … [+16125 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Uol.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Superesportes",
-      "title": "América-MG faz gol contra, tem goleiro expulso e leva virada do Cuiabá - Superesportes",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5tZy5zdXBlcmVzcG9ydGVzLmNvbS5ici9hcHAvbm90aWNpYXMvZnV0ZWJvbC9hbWVyaWNhLW1nLzIwMjMvMDUvMDcvbm90aWNpYV9hbWVyaWNhX21nLDM5OTQ1ODAvYW1lcmljYS1tZy1mYXotZ29sLWNvbnRyYS10ZW0tZ29sZWlyby1leHB1bHNvLWUtbGV2YS12aXJhZGEtZG8tY3VpYWJhLnNodG1s0gG1AWh0dHBzOi8vd3d3Lm1nLnN1cGVyZXNwb3J0ZXMuY29tLmJyL2FtcC9ub3RpY2lhcy9mdXRlYm9sL2FtZXJpY2EtbWcvMjAyMy8wNS8wNy9ub3RpY2lhX2FtZXJpY2FfbWcsMzk5NDU4MC9hbWVyaWNhLW1nLWZhei1nb2wtY29udHJhLXRlbS1nb2xlaXJvLWV4cHVsc28tZS1sZXZhLXZpcmFkYS1kby1jdWlhYmEuc2h0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T16:06:00Z",
-      "content": null
+    "author": null,
+    "title": "Sociedade de Arqueologia Brasileira faz carta em repúdio às falas de Bolsonaro sobre Iphan - Folha",
+    "description": "Presidente admitiu ter exonerado servidores do órgão em benefício do empresário Luciano Hang",
+    "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2021/12/sociedade-de-arqueologia-brasileira-faz-carta-em-repudio-as-fala-de-bolsonaro-sobre-iphan.shtml",
+    "urlToImage": "https://f.i.uol.com.br/fotografia/2021/12/16/163968347161bb958fe4338_1639683471_3x2_md.jpg",
+    "publishedAt": "2021-12-17T23:30:00Z",
+    "content": "A Sociedade de Arqueologia Brasileira (SAB) elaborou uma carta em repúdio às falas do presidente Jair Bolsonaro (PL) sobre o Iphan (Instituto do Patrimônio Histórico e Artístico Nacional). A associaç… [+1683 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ig.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "R7",
-      "title": "Marina Silva apresenta boa evolução após ser internada com Covid-19 - R7",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbm90aWNpYXMucjcuY29tL2JyYXNpbGlhL21hcmluYS1zaWx2YS1hcHJlc2VudGEtYm9hLWV2b2x1Y2FvLWFwb3Mtc2VyLWludGVybmFkYS1jb20tY292aWQtMTktMDcwNTIwMjPSAXFodHRwczovL25vdGljaWFzLnI3LmNvbS9icmFzaWxpYS9tYXJpbmEtc2lsdmEtYXByZXNlbnRhLWJvYS1ldm9sdWNhby1hcG9zLXNlci1pbnRlcm5hZGEtY29tLWNvdmlkLTE5LTA3MDUyMDIzP2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T15:55:00Z",
-      "content": null
+    "author": "O Dia",
+    "title": "Cidade do Rio registrou 24 mortes pelo vírus da gripe em 2021 - O Dia",
+    "description": "Segundo a Secretaria Estadual de Saúde, já são cinco mortes, em todo o Estado, por H3N2, subtipo do vírus da gripe",
+    "url": "https://odia.ig.com.br/rio-de-janeiro/2021/12/6300555-cidade-do-rio-registrou-24-mortes-pelo-virus-da-gripe-em-2021.html",
+    "urlToImage": "https://odia.ig.com.br/_midias/jpg/2021/12/17/1200x750/1_gripe13-23848851.jpg",
+    "publishedAt": "2021-12-17T23:26:00Z",
+    "content": "Cidade do Rio registrou 24 mortes pelo vírus da gripe em 2021\r\nSegundo a Secretaria Estadual de Saúde, já são cinco mortes, em todo o Estado, por H3N2, subtipo do vírus da gripe\r\nPublicado 17/12/2021… [+28 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "R7.com"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Estado de Minas",
-      "title": "Homem drogado tenta matar esposa, leva mata-leão e morre em motel - Estado de Minas",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5lbS5jb20uYnIvYXBwL25vdGljaWEvZ2VyYWlzLzIwMjMvMDUvMDcvaW50ZXJuYV9nZXJhaXMsMTQ5MDcxMy9ob21lbS1kcm9nYWRvLXRlbnRhLW1hdGFyLWVzcG9zYS1sZXZhLW1hdGEtbGVhby1lLW1vcnJlLWVtLW1vdGVsLnNodG1s0gFTaHR0cHM6Ly93d3cuZW0uY29tLmJyL2FwcC9ub3RpY2lhL2dlcmFpcy8yMDIzLzA1LzA3L2ludGVybmFfZ2VyYWlzLDE0OTA3MTMvYW1wLmh0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T15:30:00Z",
-      "content": null
+    "author": "R7.com",
+    "title": "Confira os planos dos finalistas após deixar o reality A Fazenda 13 - R7.COM",
+    "description": "No último dia de confinamento, Bil, Marina, Rico e Solange revelaram ter o desejo de fazer uma tatuagem; veja outros sonhos!",
+    "url": "http://afazenda.r7.com/a-fazenda-13/confira-os-planos-dos-finalistas-apos-deixar-o-reality-a-fazenda-13-17122021",
+    "urlToImage": "https://img.r7.com/images/a-fazenda-13-17122021190915175?dimensions=771x420&",
+    "publishedAt": "2021-12-17T22:53:21Z",
+    "content": "Com o fim de A Fazenda 13, é hora de os peões começarem a batalhar para transformar os  planos e sonhos idealizados na sede em prática! Para ajudá-los, que tal refrescar a memória e relembrar os proj… [+2500 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Correiobraziliense.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "G1",
-      "title": "VÍDEO: queda de balões fecha Aeroporto de Viracopos por 9 minutos em Campinas - G1",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL2cxLmdsb2JvLmNvbS9zcC9jYW1waW5hcy1yZWdpYW8vbm90aWNpYS8yMDIzLzA1LzA3L3F1ZWRhLWRlLWJhbG9lcy1mZWNoYS1hZXJvcG9ydG8taW50ZXJuYWNpb25hbC1kZS12aXJhY29wb3MtcG9yLTktbWludXRvcy1lbS1jYW1waW5hcy5naHRtbNIBoAFodHRwczovL2cxLmdsb2JvLmNvbS9nb29nbGUvYW1wL3NwL2NhbXBpbmFzLXJlZ2lhby9ub3RpY2lhLzIwMjMvMDUvMDcvcXVlZGEtZGUtYmFsb2VzLWZlY2hhLWFlcm9wb3J0by1pbnRlcm5hY2lvbmFsLWRlLXZpcmFjb3Bvcy1wb3ItOS1taW51dG9zLWVtLWNhbXBpbmFzLmdodG1s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T15:21:31Z",
-      "content": null
+    "author": "Aline Brito",
+    "title": "Confira os resultados da Quina 5733 e da Lotofácil 2400 desta sexta (17/12) - Correio Braziliense",
+    "description": "Ainda teve os sorteio da Lotomania 2250 e do Super Sete 183, nesta sexta-feira, 17 de dezembro",
+    "url": "https://www.correiobraziliense.com.br/brasil/2021/12/4971750-confira-os-resultados-da-quina-5733-e-da-lotofacil-2400-desta-sexta-17-12.html",
+    "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2021/12/17/675x450/1_loterias-7225434.jpg?20211217195209?20211217195209",
+    "publishedAt": "2021-12-17T22:53:00Z",
+    "content": "A Caixa Econômica Federal sorteou, na noite desta, quatro loterias: os concursos 5733 da Quina; o 2400 da Lotofácil; o 2250 da Lotomania e o 183 do Super Sete. O sorteio foi realizado no Espaço Caixa… [+1033 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cnnbrasil.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "UOL",
-      "title": "Líder mercenário diz que Moscou prometeu mais munição na Ucrânia após ultimato - UOL",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dzEuZm9saGEudW9sLmNvbS5ici9tdW5kby8yMDIzLzA1L2xpZGVyLWRlLWdydXBvLW1lcmNlbmFyaW8tZGl6LXF1ZS1tb3Njb3UtcHJvbWV0ZXUtbWFpcy1tdW5pY2FvLW5hLXVjcmFuaWEtYXBvcy11bHRpbWF0by5zaHRtbNIBjQFodHRwczovL3d3dzEuZm9saGEudW9sLmNvbS5ici9hbXAvbXVuZG8vMjAyMy8wNS9saWRlci1kZS1ncnVwby1tZXJjZW5hcmlvLWRpei1xdWUtbW9zY291LXByb21ldGV1LW1haXMtbXVuaWNhby1uYS11Y3JhbmlhLWFwb3MtdWx0aW1hdG8uc2h0bWw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T14:49:00Z",
-      "content": null
+    "author": "ingridoliveira",
+    "title": "Brasil registra 206 mortes por Covid-19 em 24 h; sete estados não notificaram - CNN Brasil",
+    "description": "Dados do Rio de Janeiro, Bahia, Goiás, Paraíba, Mato Grosso do Sul, Rondônia e Tocantins não foram disponibilizados por conta da instabilidade na plataforma do Ministério da Saúde",
+    "url": "https://www.cnnbrasil.com.br/saude/brasil-registra-206-mortes-por-covid-19-em-24-h-sete-estados-nao-notificaram/",
+    "urlToImage": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/11/representacao_artistica_novo_coronavirus_covid_19.jpg",
+    "publishedAt": "2021-12-17T22:34:00Z",
+    "content": "A média móvel de casos referentes aos últimos sete dias está em 3.457. Já a média móvel de mortes, referente aos últimos sete dias, é de 130 óbitos.\r\nOs números que indicariam a menor média móvel de … [+1002 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lance.com.br"
     },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "O Antagonista",
-      "title": "Militar que capturou Che Guevara morre aos 84 anos - O Antagonista",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vb2FudGFnb25pc3RhLnVvbC5jb20uYnIvbXVuZG8vbWlsaXRhci1xdWUtY2FwdHVyb3UtY2hlLWd1ZXZhcmEtbW9ycmUtYW9zLTg0LWFub3Mv0gFdaHR0cHM6Ly9vYW50YWdvbmlzdGEudW9sLmNvbS5ici9tdW5kby9taWxpdGFyLXF1ZS1jYXB0dXJvdS1jaGUtZ3VldmFyYS1tb3JyZS1hb3MtODQtYW5vcy9hbXAv?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2023-05-07T14:03:06Z",
-      "content": null
-    }
+    "author": "Lazlo Dalfovo",
+    "title": "Atrás do novo técnico do Flamengo, diretor embarca para a Europa e confirma conversa com Jorge Jesus - LANCE!",
+    "description": "Bruno Spindel, diretor de futebol do Flamengo, embarcou para Portugal nesta sexta, enquanto Marcos Braz embarca na manhã deste sábado para acompanhá-lo nas reuniões",
+    "url": "https://www.lance.com.br/flamengo/atras-do-novo-tecnico-do-flamengo-diretor-embarca-para-a-europa-e-confirma-conversa-com-jorge-jesus.html",
+    "urlToImage": "http://www.lance.com.br/files/og_image/uploads/2021/12/17/61bd0ce02e4c9.jpeg",
+    "publishedAt": "2021-12-17T22:23:30Z",
+    "content": "O Flamengopassa a pisar no acelerador na busca por um técnico a partir deste sábado. E, na noite desta sexta-feira, o diretor de futebol Bruno Spindel partiu rumo a Portugal para reuniões pré-agendad… [+3068 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Uol.com.br"
+    },
+    "author": "Nathália Rabelo",
+    "title": "Atriz Tania Mendoza é morta a tiros no México - Jornal Midiamax",
+    "description": "Polícia investiga se crime foi motivado por algum vínculo da artista com o traficante Arturo Beltrán Leyva, morto em 2009",
+    "url": "https://midiamax.uol.com.br/midiamais/famosos/2021/atriz-tania-mendoza-e-morta-tiros-no-mexico",
+    "urlToImage": "https://midiamax.uol.com.br/media/_versions/tania_mendoza_widelg.jpg",
+    "publishedAt": "2021-12-17T22:00:00Z",
+    "content": "A atriz e cantora Tania Mendoza, de 42 anos, foi assassinada enquanto esperava pelo filho de 11 anos, que jogava futebol no clube Los Felinos, na cidade Cuernavaca, distante 60 quilômetros da Cidade … [+1217 chars]"
+  }
 ]

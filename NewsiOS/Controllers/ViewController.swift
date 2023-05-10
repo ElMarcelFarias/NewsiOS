@@ -7,11 +7,26 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class ViewController: UIViewController, NewsListLocalDataProviderDelegate {
+    
+    var localDataProvider: NewsListLocalDataProvider?
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.initLocalDataProvider()
+    }
+    
+    private func initLocalDataProvider() {
+        self.localDataProvider = NewsListLocalDataProvider()
+        self.localDataProvider?.delegate = self
+        self.localDataProvider?.getNewsList()
+    }
+    
+    
+    func success(model: Any) {
+    }
+    
+    func errorData(_ provider: GenericDataProvider?, error: Error?) {
     }
 
 

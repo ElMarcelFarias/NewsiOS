@@ -1,8 +1,8 @@
 //
 //  SourceModel.swift
-//  NewsiOS
+//  AppDIONews
 //
-//  Created by Marcel Leite de Farias on 08/05/23.
+//  Created by Robson Moreira on 27/11/21.
 //
 
 import Foundation
