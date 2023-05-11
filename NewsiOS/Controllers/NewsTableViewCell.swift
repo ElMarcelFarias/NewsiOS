@@ -25,7 +25,7 @@ class NewsTableViewCell: UITableViewCell {
             self.authorLabel.text = news?.author
             self.titleLabel.text = news?.title
             self.descriptionLabel.text = news?.description
-            self.imageImageView.loadImage()
+            self.imageImageView.loadImage(from: news?.urlToImage)
             self.publishLabel.text = news?.publishedAt.toString()
         }
     }
