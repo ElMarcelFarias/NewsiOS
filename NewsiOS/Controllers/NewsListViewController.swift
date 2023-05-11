@@ -7,7 +7,7 @@
 
 import UIKit
 
-class NewsListViewController: UIViewController, NewsListLocalDataProviderDelegate, UITableViewDelegate, UITableViewDataSource {
+class NewsListViewController: UIViewController {
     
     @IBOutlet weak var newsListTableView: UITableView!
     
@@ -36,20 +36,27 @@ class NewsListViewController: UIViewController, NewsListLocalDataProviderDelegat
     }
     
     
-    
-    
+
+}
+
+
+extension NewsListViewController: UITableViewDelegate {
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        print("didSelectRowAt ==> \(indexPath)")
+        //você selecionou essa linha
+    }
+}
+
+extension NewsListViewController: NewsListLocalDataProviderDelegate {
     func success(model: Any) {
         self.newsList = model as? [NewsModel]
     }
     
     func errorData(_ provider: GenericDataProvider?, error: Error?) {
     }
+}
 
-    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print("didSelectRowAt ==> \(indexPath)")
-        //você selecionou essa linha
-    }
-    
+extension NewsListViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         //numero de linhas dentro de uma seção, quantidade de elementos dentro do array
         return self.newsList?.count ?? 0
@@ -58,6 +65,4 @@ class NewsListViewController: UIViewController, NewsListLocalDataProviderDelegat
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         return UITableViewCell()
     }
-
 }
-
