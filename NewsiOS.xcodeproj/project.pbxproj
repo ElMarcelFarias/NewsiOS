@@ -14,6 +14,8 @@
 		47BBD2822A09865900559CB8 /* NewsListRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BBD2812A09865900559CB8 /* NewsListRepository.swift */; };
 		47BBD2852A098A0300559CB8 /* GenericDataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BBD2842A098A0300559CB8 /* GenericDataProvider.swift */; };
 		47BBD2872A098AB500559CB8 /* NewsListLocalDataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47BBD2862A098AB500559CB8 /* NewsListLocalDataProvider.swift */; };
+		47D05F3E2A0D187F006E241C /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D05F3C2A0D187F006E241C /* NewsTableViewCell.swift */; };
+		47D05F3F2A0D187F006E241C /* NewsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 47D05F3D2A0D187F006E241C /* NewsTableViewCell.xib */; };
 		47DCF7362A097F180028955F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DCF7352A097F180028955F /* AppDelegate.swift */; };
 		47DCF7382A097F180028955F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DCF7372A097F180028955F /* SceneDelegate.swift */; };
 		47DCF73A2A097F180028955F /* NewsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DCF7392A097F180028955F /* NewsListViewController.swift */; };
@@ -29,6 +31,8 @@
 		47BBD2812A09865900559CB8 /* NewsListRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListRepository.swift; sourceTree = "<group>"; };
 		47BBD2842A098A0300559CB8 /* GenericDataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericDataProvider.swift; sourceTree = "<group>"; };
 		47BBD2862A098AB500559CB8 /* NewsListLocalDataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListLocalDataProvider.swift; sourceTree = "<group>"; };
+		47D05F3C2A0D187F006E241C /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
+		47D05F3D2A0D187F006E241C /* NewsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewsTableViewCell.xib; sourceTree = "<group>"; };
 		47DCF7322A097F180028955F /* NewsiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47DCF7352A097F180028955F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47DCF7372A097F180028955F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -114,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				47DCF7392A097F180028955F /* NewsListViewController.swift */,
+				47D05F3C2A0D187F006E241C /* NewsTableViewCell.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 			children = (
 				47DCF73B2A097F180028955F /* Main.storyboard */,
 				47DCF7402A097F1A0028955F /* LaunchScreen.storyboard */,
+				47D05F3D2A0D187F006E241C /* NewsTableViewCell.xib */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -198,6 +204,7 @@
 				47DCF73F2A097F1A0028955F /* Assets.xcassets in Resources */,
 				47B2D7362A0C16B7009B4D83 /* NewsList.json in Resources */,
 				47DCF73D2A097F180028955F /* Main.storyboard in Resources */,
+				47D05F3F2A0D187F006E241C /* NewsTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +217,7 @@
 			files = (
 				47DCF73A2A097F180028955F /* NewsListViewController.swift in Sources */,
 				47DCF7362A097F180028955F /* AppDelegate.swift in Sources */,
+				47D05F3E2A0D187F006E241C /* NewsTableViewCell.swift in Sources */,
 				47BBD2822A09865900559CB8 /* NewsListRepository.swift in Sources */,
 				47B2D7382A0C2113009B4D83 /* SystemExtensions.swift in Sources */,
 				47BBD2872A098AB500559CB8 /* NewsListLocalDataProvider.swift in Sources */,

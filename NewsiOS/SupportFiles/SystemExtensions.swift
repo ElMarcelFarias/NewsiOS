@@ -36,3 +36,12 @@ extension Date {
     }
     
 }
+
+
+extension UIImageView {
+    
+    func loadImage() {
+        
+    }
+    
+}
