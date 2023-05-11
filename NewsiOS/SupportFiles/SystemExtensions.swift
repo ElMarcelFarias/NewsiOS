@@ -41,7 +41,7 @@ extension Date {
 extension UIImageView {
     
     func loadImage() {
-        
+        self.image = UIImage(named: "no-image.png")
     }
     
 }
