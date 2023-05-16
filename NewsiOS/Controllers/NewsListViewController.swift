@@ -43,8 +43,10 @@ class NewsListViewController: UIViewController {
 
 extension NewsListViewController: UITableViewDelegate {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print("didSelectRowAt ==> \(indexPath)")
+        //print("didSelectRowAt ==> \(indexPath)")
         //você selecionou essa linha
+        
+        performSegue(withIdentifier: "ShowNewsViewController", sender: nil)
     }
 }
 

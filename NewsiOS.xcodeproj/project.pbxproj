@@ -23,6 +23,7 @@
 		47DCF73D2A097F180028955F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47DCF73B2A097F180028955F /* Main.storyboard */; };
 		47DCF73F2A097F1A0028955F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47DCF73E2A097F1A0028955F /* Assets.xcassets */; };
 		47DCF7422A097F1A0028955F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47DCF7402A097F1A0028955F /* LaunchScreen.storyboard */; };
+		47E50BC52A13FA8E0097164C /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E50BC42A13FA8E0097164C /* NewsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		47DCF7412A097F1A0028955F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47DCF7432A097F1A0028955F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47DCF74C2A0982960028955F /* NewsList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = NewsList.json; sourceTree = "<group>"; };
+		47E50BC42A13FA8E0097164C /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,8 +122,9 @@
 		47DCF74A2A0981210028955F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				47E50BC62A13FD880097164C /* Componets */,
 				47DCF7392A097F180028955F /* NewsListViewController.swift */,
-				47D05F3C2A0D187F006E241C /* NewsTableViewCell.swift */,
+				47E50BC42A13FA8E0097164C /* NewsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -143,6 +146,14 @@
 				47BBD27E2A09853E00559CB8 /* NewsModel.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		47E50BC62A13FD880097164C /* Componets */ = {
+			isa = PBXGroup;
+			children = (
+				47D05F3C2A0D187F006E241C /* NewsTableViewCell.swift */,
+			);
+			path = Componets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -223,6 +234,7 @@
 				47DCF7362A097F180028955F /* AppDelegate.swift in Sources */,
 				47D05F3E2A0D187F006E241C /* NewsTableViewCell.swift in Sources */,
 				47BBD2822A09865900559CB8 /* NewsListRepository.swift in Sources */,
+				47E50BC52A13FA8E0097164C /* NewsViewController.swift in Sources */,
 				47B2D7382A0C2113009B4D83 /* SystemExtensions.swift in Sources */,
 				47BBD2872A098AB500559CB8 /* NewsListLocalDataProvider.swift in Sources */,
 				47BBD27D2A0984D200559CB8 /* SourceModel.swift in Sources */,

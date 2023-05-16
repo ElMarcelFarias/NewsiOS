@@ -47,6 +47,7 @@
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.65478012249999995" green="0.09794908947" blue="0.0056571585120000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Y48-XJ-dfS" secondAttribute="bottom" id="2uK-nz-qKN"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Y48-XJ-dfS" secondAttribute="trailing" id="5vi-mw-p4J"/>
@@ -57,13 +58,32 @@
                     <navigationItem key="navigationItem" title="iOS News" id="ugB-CX-upO"/>
                     <connections>
                         <outlet property="newsListTableView" destination="Y48-XJ-dfS" id="6Kt-C5-aRz"/>
+                        <segue destination="Pyh-Yo-OGy" kind="show" identifier="ShowNewsViewController" id="9yj-qD-sNJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="157" y="35"/>
         </scene>
+        <!--Titulo-->
+        <scene sceneID="uEq-4i-bdY">
+            <objects>
+                <viewController id="Pyh-Yo-OGy" customClass="NewsViewController" customModule="NewsiOS" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="IMO-AX-sOh">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="apO-T7-CSh"/>
+                        <color key="backgroundColor" red="0.65478012249999995" green="0.09794908947" blue="0.0056571585120000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Titulo" largeTitleDisplayMode="never" id="FKx-fB-Azo"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wvd-V5-gmU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1067" y="35"/>
+        </scene>
     </scenes>
+    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
     <resources>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
