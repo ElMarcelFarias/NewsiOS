@@ -41,9 +41,7 @@ extension Date {
 extension UIImageView {
     
     func downloadedImage(from url: URL, contentMode mode: ContentMode = .scaleAspectFit) {
-        //fazendo requisição para a busca da imagem, http
-        
-        
+        //fazendo requisição para a busca da imagem, http\
         contentMode = mode
         
         
@@ -69,18 +67,13 @@ extension UIImageView {
     }
     
     func loadImage(from link: String?, contentMode mode: ContentMode = .scaleAspectFit) {
-        
-        //print("link: \(link)  mode: \(mode)")
         guard let link = link else {
             return
         }
         
         if let url = URL(string: link) {
-            print("URL: \(url)")
             downloadedImage(from: url, contentMode: mode)
         }
-        
-        
 
     }
     

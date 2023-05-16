@@ -34,11 +34,20 @@ class NewsTableViewCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
+        
+        let tap = UITapGestureRecognizer(target: self, action: #selector(openLink))
+        self.linkImageView.isUserInteractionEnabled = true
+        self.linkImageView.addGestureRecognizer(tap)
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
         
+    }
+    
+    @IBAction func openLink () {
+        guard let news = news, let url = URL(string: news.url) else { return }
+        UIApplication.shared.open(url, options: [:], completionHandler: nil)
     }
     
 }

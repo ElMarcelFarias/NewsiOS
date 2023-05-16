@@ -38,7 +38,7 @@
                                 </subviews>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="YID-Jj-JMi" userLabel="Stack View Title">
-                                <rect key="frame" x="0.0" y="155" width="771" height="76"/>
+                                <rect key="frame" x="0.0" y="155.5" width="771" height="76"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Segunda parcela do 13º salário tem que ser paga até segunda-feira - Mix Vale" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nsg-Tv-dAW">
                                         <rect key="frame" x="0.0" y="0.0" width="771" height="21.5"/>
@@ -56,7 +56,7 @@
                                 </subviews>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="zi9-ip-cmB" userLabel="Stack View Content">
-                                <rect key="frame" x="0.0" y="351.5" width="771" height="264.5"/>
+                                <rect key="frame" x="0.0" y="352" width="771" height="264"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Hxw-ed-Vjq">
                                         <rect key="frame" x="0.0" y="0.0" width="771" height="240"/>
@@ -65,19 +65,18 @@
                                         </constraints>
                                     </imageView>
                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="qFA-rt-aDg">
-                                        <rect key="frame" x="0.0" y="244" width="771" height="20.5"/>
+                                        <rect key="frame" x="0.0" y="244" width="771" height="20"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="10/12/2022" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pAF-my-WjH">
-                                                <rect key="frame" x="0.0" y="0.0" width="745" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="745" height="20"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                                 <color key="textColor" systemColor="systemGrayColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="link" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="ftC-UK-wxW">
-                                                <rect key="frame" x="749" y="-0.5" width="22" height="21.5"/>
+                                                <rect key="frame" x="749" y="-0.5" width="22" height="21"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="22" id="WZX-t0-G5f"/>
-                                                    <constraint firstAttribute="height" constant="20.5" id="liu-SK-qKu"/>
                                                 </constraints>
                                             </imageView>
                                         </subviews>
