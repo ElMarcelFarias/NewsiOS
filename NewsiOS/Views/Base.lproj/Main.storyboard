@@ -72,15 +72,54 @@
                     <view key="view" contentMode="scaleToFill" id="IMO-AX-sOh">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="s4X-6Y-0r6">
+                                <rect key="frame" x="0.0" y="88" width="414" height="774"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PaC-GR-Pe4">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <subviews>
+                                    <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="rjX-Af-Xo4">
+                                        <rect key="frame" x="188.5" y="429.5" width="37" height="37"/>
+                                        <color key="color" red="0.65478012249999995" green="0.09794908947" blue="0.0056571585120000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </activityIndicatorView>
+                                </subviews>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.3503207781456954" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="rjX-Af-Xo4" firstAttribute="centerX" secondItem="PaC-GR-Pe4" secondAttribute="centerX" id="RiG-LC-Cdi"/>
+                                    <constraint firstItem="rjX-Af-Xo4" firstAttribute="centerY" secondItem="PaC-GR-Pe4" secondAttribute="centerY" id="zjH-iE-eQX"/>
+                                </constraints>
+                            </view>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="apO-T7-CSh"/>
                         <color key="backgroundColor" red="0.65478012249999995" green="0.09794908947" blue="0.0056571585120000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="s4X-6Y-0r6" firstAttribute="top" secondItem="apO-T7-CSh" secondAttribute="top" id="2Rn-pb-Y6R"/>
+                            <constraint firstItem="PaC-GR-Pe4" firstAttribute="width" secondItem="IMO-AX-sOh" secondAttribute="width" id="6RK-1b-WAj"/>
+                            <constraint firstItem="s4X-6Y-0r6" firstAttribute="leading" secondItem="apO-T7-CSh" secondAttribute="leading" id="A5j-uA-NTI"/>
+                            <constraint firstItem="apO-T7-CSh" firstAttribute="bottom" secondItem="s4X-6Y-0r6" secondAttribute="bottom" id="AWL-sk-oxP"/>
+                            <constraint firstItem="apO-T7-CSh" firstAttribute="trailing" secondItem="s4X-6Y-0r6" secondAttribute="trailing" id="HYl-65-ShD"/>
+                            <constraint firstItem="PaC-GR-Pe4" firstAttribute="centerY" secondItem="IMO-AX-sOh" secondAttribute="centerY" id="Hgg-Xd-IEE"/>
+                            <constraint firstItem="PaC-GR-Pe4" firstAttribute="centerX" secondItem="IMO-AX-sOh" secondAttribute="centerX" id="JIn-jB-OOO"/>
+                            <constraint firstItem="PaC-GR-Pe4" firstAttribute="height" secondItem="IMO-AX-sOh" secondAttribute="height" id="yO5-hx-Fpr"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Titulo" largeTitleDisplayMode="never" id="FKx-fB-Azo"/>
+                    <connections>
+                        <outlet property="loadingActivityIndicator" destination="rjX-Af-Xo4" id="1fc-As-UaJ"/>
+                        <outlet property="loadingView" destination="PaC-GR-Pe4" id="dY8-nP-1Bd"/>
+                        <outlet property="newsWebView" destination="s4X-6Y-0r6" id="hYe-VY-pGg"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wvd-V5-gmU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1067" y="35"/>
+            <point key="canvasLocation" x="1066.6666666666667" y="34.821428571428569"/>
         </scene>
     </scenes>
     <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

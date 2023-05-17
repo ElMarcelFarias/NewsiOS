@@ -5,25 +5,61 @@
 //  Created by Marcel Leite de Farias on 16/05/23.
 //
 
-import UIKit
+import WebKit
 
 class NewsViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+    @IBOutlet weak var newsWebView:WKWebView!
+    @IBOutlet weak var loadingActivityIndicator: UIActivityIndicatorView!
+    @IBOutlet weak var loadingView: UIView!
+    
+    
+    
+    var news: NewsModel? {
+        didSet {
+            self.title = news?.source.name
+        }
     }
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.setupWebView()
 
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
     }
-    */
+    
+    
+    private func setupWebView() {
+        
+        self.newsWebView.navigationDelegate = self
+        
+        guard let news = news, let url = URL(string: news.url) else {
+            return
+        }
+        
+        self.newsWebView.load(URLRequest(url: url))
+        self.newsWebView.allowsBackForwardNavigationGestures = true
+    }
+}
 
+
+extension NewsViewController: WKNavigationDelegate {
+    
+    func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
+        self.loadingActivityIndicator.startAnimating()
+        self.loadingView.isHidden = false
+        //COMECOU CARREGAR A WEBView
+    }
+    
+    func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
+        self.loadingView.isHidden = true
+        self.loadingActivityIndicator.stopAnimating()
+        //TERMINOU DE CARREGAR A WEBView
+    }
+    
+    func webView(_ webView: WKWebView, didFail navigation: WKNavigation!, withError error: Error) {
+        self.loadingView.isHidden = false
+        self.loadingActivityIndicator.stopAnimating()
+        //Se der alguma falha
+    }
+    
 }
