@@ -66,8 +66,9 @@ extension UIImageView {
         
     }
     
-    func loadImage(from link: String?, contentMode mode: ContentMode = .scaleAspectFit) {
+    func loadImage(from link: String?, contentMode mode: ContentMode = .scaleAspectFill) {
         guard let link = link else {
+            self.image = UIImage(named: "no-image.png")
             return
         }
         
