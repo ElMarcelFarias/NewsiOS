@@ -4,6 +4,8 @@
 //
 //  Created by Marcel Leite de Farias on 08/05/23.
 //
+//  Implementando requisição HTTP a API da newsapi
+
 
 import Foundation
 
