@@ -18,22 +18,40 @@ class NewsListRepository {
     
     private init() { }
     
-    func getNewsList(completion: ([NewsModel]?, Error?) -> Void) {
-        if let path = Bundle.main.path(forResource: "NewsList", ofType: "json") {
-            do {
-                let url = URL(fileURLWithPath: path)
-                let data = try Data(contentsOf: url, options: .mappedIfSafe)
-                
-                let decoder = JSONDecoder()
-                decoder.dateDecodingStrategy = .formatted(DateFormatter.iso8601Full)
-                let newsModelList = try decoder.decode([NewsModel].self, from: data)
-                completion(newsModelList, nil)
-            } catch {
-                completion(nil, error)
+    
+    
+    func getNewsList(completion: @escaping (ResponseModel?, Error?) -> Void) {
+        let errorData = NSError(domain:"", code: 901 , userInfo: [NSLocalizedDescriptionKey: "Error codding"]) as Error
+        guard let url = URL(string: "https://newsapi.org/v2/top-headlines?country=br&apiKey=fb9743b9387043a6a905aee88dc523a1") else { return }
+        
+        print(url)
+        
+        let task = URLSession.shared.dataTask(with: url) { data, response, error in
+            
+            if let error = error {
+                return completion(nil, error)
             }
-        } else {
-            completion(nil, NewsListError.fileNotFound)
+            
+            guard let response = response as? HTTPURLResponse  else { return }
+            
+            if response.statusCode == 200 {
+                guard let data = data else {
+                    return completion(nil, errorData)
+                }
+
+                do {
+                    let object = try JSONDecoder().decode(ResponseModel.self, from: data)
+                    completion(object, nil)
+                } catch {
+                    completion(nil, error)
+                }
+            }
+
+            
         }
+        task.resume()
+        
+       
     }
     
 }

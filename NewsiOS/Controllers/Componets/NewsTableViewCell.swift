@@ -26,7 +26,7 @@ class NewsTableViewCell: UITableViewCell {
             self.titleLabel.text = news?.title
             self.descriptionLabel.text = news?.description
             self.imageImageView.loadImage(from: news?.urlToImage)
-            self.publishLabel.text = news?.publishedAt.toString()
+            self.publishLabel.text = "teste"
         }
     }
     
@@ -46,7 +46,7 @@ class NewsTableViewCell: UITableViewCell {
     }
     
     @IBAction func openLink () {
-        guard let news = news, let url = URL(string: news.url) else { return }
+        guard let news = news, let url = URL(string: news.url!) else { return }
         UIApplication.shared.open(url, options: [:], completionHandler: nil)
     }
     
